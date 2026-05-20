@@ -4,3 +4,5 @@ class Hi{
 //d2 local deploy
 class hello{
 }
+new obj added 
+>>>>>>> Stashed changes
